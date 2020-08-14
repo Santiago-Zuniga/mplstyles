@@ -1,0 +1,43 @@
+# my plt paper context
+figure.figsize: 6.4, 3.95
+axes.labelsize: 8.8
+axes.titlesize: 9.6
+xtick.labelsize: 8
+ytick.labelsize: 8
+legend.fontsize: 8
+
+grid.linewidth: 0.6
+lines.linewidth: 0.9
+patch.linewidth: 0.24
+lines.markersize: 5.6
+lines.markeredgewidth: 0
+
+xtick.major.width: 0.8
+ytick.major.width: 0.8
+xtick.minor.width: 0.4
+ytick.minor.width: 0.4
+
+ytick.right: True
+xtick.top: True
+xtick.direction: in
+ytick.direction: in
+
+
+xtick.major.pad: 5.6
+ytick.major.pad: 5.6
+
+font.family: Renner*
+# mathtext.fontset: stixsans
+mathtext.fontset: custom
+mathtext.rm : Renner*:normal
+mathtext.it : Renner*:italic
+mathtext.bf : Renner*:bold
+mathtext.sf : Renner*
+mathtext.cal : Lucida Calligraphy
+
+# text.usetex: True
+
+# axes.prop_cycle: cycler('color', ['4C72B0', 'C44E52','55A868', 'CCB974', '64B5CD', '8172B2'])
+
+axes.prop_cycle: cycler('color', ['4C72B0','DD8452','55A868','C44E52','8172B3','937860','DA8BC3','8C8C8C','CCB974','64B5CD'])
+
