@@ -1,6 +1,6 @@
 # my plt paper context
 figure.figsize: 6.4, 3.95
-axes.labelsize: 8.8
+axes.labelsize: 10
 axes.titlesize: 9.6
 xtick.labelsize: 8
 ytick.labelsize: 8
