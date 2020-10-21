@@ -30,7 +30,7 @@ font.family: Jost*
 # mathtext.fontset: stixsans
 mathtext.fontset: custom
 mathtext.rm : Jost*:normal
-mathtext.it : Jost*:italic:normal
+mathtext.it : Jost*:italic
 mathtext.bf : Jost*:bold
 mathtext.sf : Jost*
 mathtext.cal : Lucida Calligraphy
