@@ -26,13 +26,13 @@ ytick.direction: in
 xtick.major.pad: 5.6
 ytick.major.pad: 5.6
 
-font.family: Renner*
+font.family: Jost*
 # mathtext.fontset: stixsans
 mathtext.fontset: custom
-mathtext.rm : Renner*:normal
-mathtext.it : Renner*:italic
-mathtext.bf : Renner*:bold
-mathtext.sf : Renner*
+mathtext.rm : Jost*:normal
+mathtext.it : Jost*:italic
+mathtext.bf : Jost*:bold
+mathtext.sf : Jost*
 mathtext.cal : Lucida Calligraphy
 
 # text.usetex: True
