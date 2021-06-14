@@ -1,0 +1,34 @@
+# my plt paper context
+figure.figsize: 6.4, 3.95
+axes.labelsize: 10
+axes.titlesize: 9.6
+xtick.labelsize: 8
+ytick.labelsize: 8
+legend.fontsize: 8
+
+grid.linewidth: 0.6
+lines.linewidth: 1.2
+patch.linewidth: 0.24
+lines.markersize: 5.6
+lines.markeredgewidth: 0
+
+xtick.major.width: 0.8
+ytick.major.width: 0.8
+xtick.minor.width: 0.4
+ytick.minor.width: 0.4
+
+ytick.right: True
+xtick.top: True
+xtick.direction: in
+ytick.direction: in
+
+
+xtick.major.pad: 5.6
+ytick.major.pad: 5.6
+
+
+text.usetex: True
+
+
+axes.prop_cycle: cycler('color', ['b','r','g','darkorange','purple','b','r','g','darkorange','purple'])
+axes.prop_cycle: cycler('linestyle', ['solid','solid','solid','solid','solid','dashed','dashed','dashed','dashed','dashed',])
