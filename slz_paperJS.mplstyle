@@ -30,8 +30,7 @@ ytick.major.pad: 5.6
 text.usetex: True
 
 
-axes.prop_cycle: cycler('color', ['b','r','g','darkorange','purple','b','r','g','darkorange','purple'],'linestyle', ['solid','dashed',]
-)
-#axes.prop_cycle: cycler('linestyle', ['solid','solid','solid','solid','solid','dashed','dashed','dashed','dashed','dashed',])
-#axes.prop_cycle: cycler()
+axes.prop_cycle: cycler('color', ['b','r','g','darkorange','purple','b','r','g','darkorange','purple'],)
+# axes.prop_cycle: cycler('linestyle', ['solid','solid','solid','solid','solid','dashed','dashed','dashed','dashed','dashed',])
+axes.prop_cycle: cycler('linestyle', ['solid','dashed',])
 
