@@ -28,8 +28,8 @@ ytick.major.pad: 5.6
 
 
 text.usetex: True
-#font.family: serif
-#font.serif: cmr10
+font.family: serif
+font.serif: cmr10
 #mathtext.fontset: cm
 
 
