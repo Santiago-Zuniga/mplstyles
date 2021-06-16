@@ -1,4 +1,4 @@
-# my plt paper context
+# JS plt paper context
 figure.figsize: 6.4, 3.95
 axes.labelsize: 10
 axes.titlesize: 9.6
@@ -27,13 +27,11 @@ xtick.major.pad: 5.6
 ytick.major.pad: 5.6
 
 
-#text.usetex: True
-font.family: serif
-font.serif: Computer Modern Roman
-mathtext.fontset: cm
+text.usetex: True
+#font.family: serif
+#font.serif: cmr10
+#mathtext.fontset: cm
 
 
-axes.prop_cycle: cycler('color', ['b','r','g','darkorange','purple','b','r','g','darkorange','purple'],)
-# axes.prop_cycle: cycler('linestyle', ['solid','solid','solid','solid','solid','dashed','dashed','dashed','dashed','dashed',])
-axes.prop_cycle: cycler('linestyle', ['solid','dashed',])
+axes.prop_cycle: (cycler(color= ['b','r','g','darkorange','purple','b','r','g','darkorange','purple']) + cycler('linestyle',  ['solid','solid','solid','solid','solid','dashed','dashed','dashed','dashed','dashed',]))
 
